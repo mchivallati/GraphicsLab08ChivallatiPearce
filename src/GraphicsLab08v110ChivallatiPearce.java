@@ -143,8 +143,6 @@ public class GraphicsLab08v110ChivallatiPearce extends Applet
 			numTool = 4;
 		} else if (tool5.inside(x,y)) {
 			numTool = 5;
-		} else if (tool6.inside(x,y)) {
-			numTool = 6;
 		}
 
 		newX = x;
